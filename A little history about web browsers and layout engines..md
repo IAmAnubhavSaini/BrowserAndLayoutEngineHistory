@@ -26,6 +26,14 @@ tags: web, layout-engines, KHTML, Konqueror, Gecko, FireFox, Chrome, Blink, WebK
 
 ## Blink
 
+Blink is the [rendering engine](http://en.wikipedia.org/wiki/Web_browser_engine) used by Chromium.
+
+> Blink's Mission:
+> 
+> To improve the open web through 
+>  technical innovation and good citizenship
+
+
 ## General Idea Diagram
 
 ```sequence
@@ -64,6 +72,13 @@ Note right of Blink: . Opera .
 
 ## Tasman
 
+> WikiPedia:
+>
+> "Tasman is a discontinued layout engine developed by Microsoft for inclusion in the Macintosh version of Internet Explorer 5. Tasman was an attempt to improve support for web standards, as defined by the World Wide Web Consortium. At the time of its release, Tasman was seen as the layout engine with the best support for web standards such as HTML and CSS."
+>
+> Tantek Çelik led the team that developed the Tasman engine as the Software Development Lead.
+
+
 ## EdgeHTML
 
 ### General Idea Diagram
@@ -92,6 +107,10 @@ Note right of EdgeHTML: . IE 11 .
 
 # References
 
+## Concepts
+
+1. http://en.wikipedia.org/wiki/Web_browser_engine
+
 ## Engines
 
 ### KHTML
@@ -101,6 +120,9 @@ Note right of EdgeHTML: . IE 11 .
 ### WebKit
 
 ### Blink
+
+1. http://www.chromium.org/blink
+2. 
 
 ### EdgeHTML
 
